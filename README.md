@@ -1,6 +1,6 @@
 # libcunit
 
-https://github.com/Linaro/libcunit/releases/download/2-1.3/CUnit-2.1-3.tar.bz2
+https://github.com/Linaro/libcunit/releases/download/2.1-3/CUnit-2.1-3.tar.bz2
 
 Mirror of:
 
